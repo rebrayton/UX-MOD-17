@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <header class="navigation">
+        <div class="inline-block"></div>
+        <div class="logo" ></div>
+             <img 
+             class="dog picture"
+             src="https://hips.hearstapps.com/hmg-prod/images/cane-corso-italiano-royalty-free-image-1646818531.jpg?crop=0.532xw:1.00xh;0.176xw,0&resize=980:*" alt="logo"></img>;
+             <nav class="inline-block"> 
+                <ul>
+                 <li> about </li>
+                 <li> skills </li>
+                 <li> work </li>
+                 <li> contact </li>
+                </ul>
+             </nav>        
+    </header>
+
+    <section class="heroImg"> 
+        <div class="content">
+            <img src=https://hips.hearstapps.com/hmg-prod/images/cane-corso-italiano-royalty-free-image-1646818531.jpg?crop=0.532xw:1.00xh;0.176xw,0&resize=980:*" alt="logo" alt="it's me"></img>;"
+            <p> Creative Empathetic Curios Driven. </p>
+            <button> Download Resume </button>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <ul>
+            <li> about </li>
+            <li> skills </li>
+            <li> work </li>
+            <li> contact </li>
+        </ul>
+    </footer class="footer">
+
+        <title> </title>
+    </head>
+
+    
+</html>
